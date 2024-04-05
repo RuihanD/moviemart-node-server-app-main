@@ -143,6 +143,4 @@ router.get('/get-users-by-movie/:movieId', async (req, res) => {
     }
 });
 
-
-
 export default router;
